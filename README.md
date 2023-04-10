@@ -15,3 +15,7 @@ Notes from Allolib S23
 * [Sharp](https://allolib-s23.github.io/notes-ryansniu)
 * [Sirui](https://allolib-s23.github.io/notes-TADAPIU)
 * [Zach](https://allolib-s23.github.io/notes-zachmiller-ucsb)
+
+Instructor Notes:
+
+* [Phill](https://allolib-s23.github.io/notes-pconrad)
